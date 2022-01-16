@@ -7,4 +7,6 @@
 - 🤹‍♀️ So much projects, so much to learn, so much to do and keeping up with ... I am trying to update my GitHub project by project, little by little ... You can find them in these 3 categories:
 - Challenges (non mandatory programming challenges given by our trainer)
 - Little games (little programs I have coded for fun)
-- WCS learning quests (some school exercices that we have to publish in GitHub) 
+- Projects WCS (projects done during my training with WCS) 
+
+The repositories not starred are repostories that I have to let in public containing school little exercises. 
